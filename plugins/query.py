@@ -193,7 +193,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup([
                     [InlineKeyboardButton("• ᴄʟɪᴄᴋ ғᴏʀ ᴍᴏʀᴇ •", callback_data='about')],
                     [InlineKeyboardButton("• sᴇᴛᴛɪɴɢs", callback_data='setting'),
-                     InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ •', url='https://t.me/urr_sanjiii')],
+                     InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ •', url='https://t.me/Peldiya')],
                     [InlineKeyboardButton("• ᴏᴜʀ ᴀɴɪᴍᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ •", url='https://t.me/Battousi_Network')],
                 ]),
         )
